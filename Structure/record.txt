@@ -1,0 +1,5 @@
+Record are as follows
+Name =>irfan iskandar
+Age =>20
+ID => 991229-07-5167
+Contact Number =>016-4366212
